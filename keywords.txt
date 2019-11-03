@@ -1,0 +1,18 @@
+###########################################
+# Syntax Coloring Map for BulkSMS_ESP8266 library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Parse	KEYWORD1
+BulkSMS	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+report  KEYWORD2
+send    KEYWORD2
+url     KEYWORD2
