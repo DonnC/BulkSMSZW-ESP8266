@@ -3,6 +3,6 @@
 
 
 
-- This a port for my BulkSmsZwApi library for Python 3 available at https://github.com/DonnC
+- This a port for BulkSmsZwApi library that i created for Python 3 available at [bulksmsApi Python](https://github.com/DonnC/BulkSmsZW-Api)
 - For Espressif based boards ESP8266 (for now) and ESP32.
 - Development in progress
