@@ -16,3 +16,4 @@ BulkSMS	KEYWORD1
 report  KEYWORD2
 send    KEYWORD2
 url     KEYWORD2
+status  KEYWORD2
